@@ -1,5 +1,7 @@
 # Tema1-SDA
 
+SDA = Stucturi de date si algoritmi
+
 ## Rezumat
 - Am folosit resursele prezente in laboratorul 4, corespunzator tabelelor hash si listelor generice simplu inlantuite.
 - In main.c am generat tabela hash si am analizat tipurile de cerinte pe care le puteam primi; am folosit strtok pentru
